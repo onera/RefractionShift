@@ -9,4 +9,4 @@ Details on the use of the four methods are given in the file example.py .
 
 
 ## License
-[GPL-3.0] (https://choosealicense.com/licenses/gpl-3.0/)
+[GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/)
