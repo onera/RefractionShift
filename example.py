@@ -6,8 +6,7 @@ Author       : Hanae Labriji
 Institute    : Office National d'Etudes et de Recherches Aerospatiales ONERA
 Last modified: 2021-04-22
 """
-
-from src.refraction_shift import refraction
+from RefractionShift.refraction_shift import refraction
 import numpy as np
 
 ##############################################################################
