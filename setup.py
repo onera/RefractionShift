@@ -7,8 +7,8 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
     longDescription = f.read()
 
 setuptools.setup(
-    name="RefractionShift", # Replace with your own username
-    version="0.0.9",
+    name="RefractionShift", 
+    version="0.1.0",
     author="Hanae Labriji",
     author_email="hanae.labriji@gmail.com",
     description="A python module for computing the lateral shift due to atmospheric refraction ",

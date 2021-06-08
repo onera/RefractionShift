@@ -9,6 +9,7 @@ pip install AstroAtmosphere
 then run:
 ```bash
 pip install RefractionShift 
+python "test_refraction.py"
 ```
 The file `example.py` contains a working example.
 
